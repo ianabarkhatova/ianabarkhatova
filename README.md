@@ -1,6 +1,8 @@
 ## Hi! I'm Iana. Welcome to my GitHub profile! 👋
 
 ![Codewars](https://img.shields.io/badge/Codewars-7kyu%20|%2084-green?logo=codewars&logoColor=white)
+[![Codewars](https://img.shields.io/badge/Codewars-7kyu%20|%2084-green?logo=codewars&logoColor=white)](https://www.codewars.com/users/ianabarkhatova)
+
 
 <!--
 **ianabarkhatova/ianabarkhatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
