@@ -1,6 +1,6 @@
 ## Hi! I'm Iana. Welcome to my GitHub profile! 👋
 
-[![Codewars](https://img.shields.io/badge/Codewars-6kyu%20|%20124-green?logo=codewars&logoColor=white)](https://www.codewars.com/users/ianabarkhatova)
+[![Codewars](https://img.shields.io/badge/Codewars-6kyu%20|%20130-green?logo=codewars&logoColor=white)](https://www.codewars.com/users/ianabarkhatova)
 
 
 <!--
